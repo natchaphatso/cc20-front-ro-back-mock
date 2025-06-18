@@ -18,3 +18,11 @@ npm install cors morgan nodemon
 ### morgan for show log request (GET, POST, PUT, PATCH)
 ### nodemon for auto run server when saved
 ```
+
+## Git
+
+```bash
+git add .
+git commit -m "message"
+git push
+```
